@@ -95,23 +95,11 @@
             display: table;
           }
 
-          footer, header, main {
+     header, main {
            display: block;
          }
 
-         footer {
-            padding: 55px 0;
-            position: fixed;
-            left: 50%;
-            bottom: 0;
-            width: 960px;
-            -webkit-transform: translateX(-50%);
-            transform: translateX(-50%);
-            -webkit-transform-style: preserve-3d;
-            transform-style: preserve-3d;
-          }
-
-        .social-media {
+            .social-media {
           padding-top: 15px;
           margin: 20px;
           padding-left: 9%;
@@ -121,7 +109,7 @@
             margin-left: 50px;
             margin-right: 50px;
             color: gray;
-          }
+            }
 
           .fa:hover {
             color: lightseagreen;
@@ -161,7 +149,7 @@
      }
 
          @media (max-width: 996px) {
-            body, footer {
+            body {
               max-width: 780px;
             }
             .logo h2 {
