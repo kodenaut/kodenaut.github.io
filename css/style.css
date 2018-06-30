@@ -83,6 +83,8 @@
 
         .release-notes p {
             font-size: 14px;
+            padding-bottom: 0;
+            margin-bottom: 0;
           }
 
           .u-clearfix:after {
@@ -98,7 +100,7 @@
         .social-media {
           padding-top: 15px;
           margin: 20px;
-          padding-left: 9%;
+          padding-left: 10.5%;
           }
 
           i {
@@ -137,6 +139,7 @@
       #copyright {
            padding-top: 30px;
            padding-bottom: 20px;
+           padding-left: 9.5%
            font-family: 'Exo', sans-serif;
         }
 
