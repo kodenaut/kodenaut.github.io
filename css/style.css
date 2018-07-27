@@ -23,6 +23,10 @@ a {
 text-decoration: none;
 }
 
+a :hover {
+text-decoration: none;
+}
+
           #profile {
             height: 250px;
           }
