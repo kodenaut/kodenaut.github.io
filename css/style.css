@@ -28,7 +28,7 @@ text-decoration: none;
 }
 
           #profile {
-            height: 250px;
+            height: 200px;
           }
           .body, .tip {
             stroke: #fff;
@@ -108,13 +108,13 @@ text-decoration: none;
 
         .social-media {
           padding-top: 25px;
-          margin: 20px;
+          margin: 10px;
           padding-left: 10%;
           }
 
           i {
-            margin-left: 50px;
-            margin-right: 50px;
+            margin-left: 30px;
+            margin-right: 30px;
             color: gray;
             }
 
