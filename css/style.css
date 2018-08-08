@@ -147,6 +147,7 @@ text-decoration: none;
       }
 
       #copyright {
+                 font-size: 16;
            padding-top: 30px;
            padding-bottom: 20px;
            padding-left: 9.5%
