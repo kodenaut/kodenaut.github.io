@@ -147,11 +147,11 @@ text-decoration: none;
       }
 
       #copyright {
-                 font-size: 17;
+                 font-size: 15px;
            padding-top: 30px;
            padding-bottom: 20px;
            padding-left: 9.5%;
-        font-family: 'Spirax', sans-serif;
+            font-family: 'Spirax', sans-serif;
                  
         }
 
