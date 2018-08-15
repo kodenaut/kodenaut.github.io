@@ -118,7 +118,8 @@ text-decoration: none;
         .social-media {
           padding-top: 25px;
           margin: 0 auto;
-          padding-left: 10%;
+          padding-left: 25%;
+
           }
 
           i {
@@ -129,6 +130,10 @@ text-decoration: none;
 
           .fa:hover {
             color: lightseagreen;
+          }
+
+          .{
+            align-items: center;
           }
 
       #content {
@@ -159,7 +164,6 @@ text-decoration: none;
                  font-size: 16px;
            padding-top: 30px;
            padding-bottom: 20px;
-           padding-left: 9.5%;
             font-family: 'Spirax', sans-serif;
 
         }
