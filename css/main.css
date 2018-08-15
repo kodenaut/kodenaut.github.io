@@ -1,0 +1,57 @@
+body {
+    background: whitesmoke url("img/background.png");
+}
+
+img {
+    height: 70px;
+}
+
+header {
+    padding-top: 10px;
+}
+
+.social-icons {
+    text-decoration: none;
+}
+
+/* --- progress --- */
+
+.progress {
+    height: 35px;
+}
+
+.progress-bar {
+    font-size: 16px;
+    line-height: 35px;
+}
+
+.text-left i{
+    padding-left: 10px;
+    color: darkslategray;
+    text-transform: uppercase;
+    font-weight: bold;
+    }
+
+.text-left {
+    font-family: 'Coiny', 'Times New Roman', Times, serif;
+
+}
+
+i {
+    color: darkslategray;
+}
+
+.text {
+    font-family: 'Exo', 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+h4 {
+    font-family: 'Coiny', 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+i {
+    font-family: 'Coiny', 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
