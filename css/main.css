@@ -55,3 +55,8 @@ i {
     font-family: 'Coiny', 'Times New Roman', Times, serif;
     font-size: 18px;
 }
+
+.text-right i {
+  margin: 5px;
+  color: gray;
+}

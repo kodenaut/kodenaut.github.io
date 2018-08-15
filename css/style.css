@@ -21,6 +21,9 @@
 
 a {
 text-decoration: none;
+font-family: 'Exo', sans-serif;
+color: lightseagreen;
+font-weight: bold;
 }
 
 a:hover {
@@ -89,10 +92,16 @@ text-decoration: none;
 
 
         .release-notes p {
-            font-size: 14px;
+            font-weight: bold;
+            font-size: 22px;
             padding-bottom: 0;
             margin-bottom: 0;
             font-family: 'Spirax', sans-serif;
+
+          }
+
+          .release-notes p i {
+            color: lightseagreen;
 
           }
 
@@ -152,7 +161,7 @@ text-decoration: none;
            padding-bottom: 20px;
            padding-left: 9.5%;
             font-family: 'Spirax', sans-serif;
-                 
+
         }
 
      body {
