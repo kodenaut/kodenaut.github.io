@@ -100,12 +100,7 @@ text-decoration: none;
 
           }
 
-          .release-notes p i {
-            color: lightseagreen;
-
-          }
-
-          .u-clearfix:after {
+         .u-clearfix:after {
             content: "";
             clear: both;
             display: table;
@@ -126,10 +121,6 @@ text-decoration: none;
 
           .fa:hover {
             color: lightseagreen;
-          }
-
-          .{
-            align-items: center;
           }
 
       #content {
