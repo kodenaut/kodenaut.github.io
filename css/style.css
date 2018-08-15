@@ -118,15 +118,13 @@ text-decoration: none;
         .social-media {
           padding-top: 25px;
           margin: 0 auto;
-          padding-left: 25%;
 
           }
 
           i {
-            margin-left: 0 auto;
-            margin-right: 0 auto;
+            margin: 34px;
             color: gray;
-            }
+        }
 
           .fa:hover {
             color: lightseagreen;
