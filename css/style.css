@@ -93,19 +93,15 @@ text-decoration: none;
 
         .release-notes p {
             font-weight: bold;
-            font-size: 22px;
+            font-size: 18px;
             padding-bottom: 0;
             margin-bottom: 0;
             font-family: 'Spirax', sans-serif;
+            color: darkslategray;
 
           }
 
-          .release-notes p i {
-            color: lightseagreen;
-
-          }
-
-          .u-clearfix:after {
+         .u-clearfix:after {
             content: "";
             clear: both;
             display: table;
@@ -126,10 +122,6 @@ text-decoration: none;
 
           .fa:hover {
             color: lightseagreen;
-          }
-
-          .{
-            align-items: center;
           }
 
       #content {
