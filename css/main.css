@@ -1,5 +1,6 @@
 body {
     background: whitesmoke url("img/background.png");
+    overflow-x: hidden;
 }
 
 img {
